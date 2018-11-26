@@ -1,0 +1,6 @@
+token=NTE2NjEzOTYzMzYyODYxMDc4.Dt2N0w.79ZUMywzN-ZfMzzcLD8SJP8hFzA
+owner=400329871278211073
+prefix= r
+game= Type rhelp
+stayinchannel=true
+songinstatus=true
